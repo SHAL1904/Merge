@@ -1,3 +1,7 @@
 Pink
 Purple
+<<<<<<< HEAD
 Blue
+=======
+Blue
+>>>>>>> feature1
